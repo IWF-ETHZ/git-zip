@@ -1,0 +1,1 @@
+{"version": 2, "name": "Axis", "ax_type": "linear", "axis": [1.0, 0.0, 0.0], "components": ["Slider"], "center_component": "Rail", "center_interface": "rail", "position": 0.0}

@@ -1,0 +1,1 @@
+{"version": 1, "more_version": "4.1.2", "physics": "mech", "kind": "link_load", "selected_entity": "carriage_1", "dof_names": ["u", "v", "w", "ru", "rv", "rw"], "dof_values": [1.0, 0.0, 0.0, 0.0, 0.0, 0.0]}

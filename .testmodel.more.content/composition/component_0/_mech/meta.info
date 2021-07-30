@@ -1,0 +1,1 @@
+{"version": 13, "sys_names": ["system_0", "system_1"], "intf_names": ["interface_0", "interface_1", "interface_2"], "default_system": "original_reduced", "original_system": "original", "default_coupled": "original", "alpha": 10.0, "beta": 1e-05, "mass": 3.768000000002702}

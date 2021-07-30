@@ -1,0 +1,1 @@
+{"version": 1, "physics": "mech", "kind": "cascade", "Kv": 100.0, "Kp": 200.0, "Tni": 0.0, "Vff": 0.0, "Tau": 1e-06, "v_loop_closed": true, "p_loop_closed": true}

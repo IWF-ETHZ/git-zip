@@ -1,0 +1,1 @@
+{"version": 5, "name": "Undamped modal analysis", "analysis_type": "modal", "axpos": "{\"version\": 1, \"axpos\": [\"{\\\"version\\\": 1, \\\"axis\\\": \\\"Axis\\\", \\\"position\\\": 0.0}\"], \"live\": false}", "analysis_options": "{\"version\": 3, \"re_reduce\": true, \"linearise_link_properties\": true, \"frf_solver\": \"slycot\"}", "physics": "mech", "more_version": "4.1.2"}

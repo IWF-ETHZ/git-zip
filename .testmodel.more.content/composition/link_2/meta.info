@@ -1,0 +1,1 @@
+{"version": 7, "source_component": "Rail", "target_component": "Slider", "source_interface": "rail", "target_interface": "carriage_1", "location_master": "target", "orientation_master": "target", "link_properties": "Linear guide", "source_ground": false, "move_slave": false, "name": "carriage_1", "physics": "mech", "more_version": "4.1.2"}

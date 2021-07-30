@@ -1,0 +1,1 @@
+{"version": 7, "source_component": "", "target_component": "Rail", "source_interface": "", "target_interface": "ground_2", "location_master": "target", "orientation_master": "target", "link_properties": "ground", "source_ground": true, "move_slave": false, "name": "ground_2", "physics": "mech", "more_version": "4.1.2"}
